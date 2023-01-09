@@ -1,6 +1,6 @@
 {
   "name": "@bryanhannes/typed-view-model",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A typed view model library created with RxJS",
   "main": "lib/index.js",
   "scripts": {
