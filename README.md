@@ -11,6 +11,12 @@ npm install --save @bryanhannes/typed-view-model
 ## How to use
 
 ```typescript
+interface PageViewModel {
+    name: string;
+    number: number;
+    stringArray: string[];
+}
+
 const name$$ = new Subject<string>();
 const number$$ = new Subject<number>();
 const stringArray$$ = new Subject<string[]>();
