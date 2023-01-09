@@ -7,7 +7,6 @@
 bazel-*
 bazel-bin
 bazel-out
-bazel-qwik
 bazel-testlogs
 dist
 dist-dev
