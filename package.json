@@ -1,7 +1,7 @@
 {
   "name": "@bryanhannes/typed-view-model",
-  "version": "0.0.0",
-  "description": "A typed view model for Angular",
+  "version": "1.0.0",
+  "description": "A typed view model library created with RxJS",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
