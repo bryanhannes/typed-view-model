@@ -8,7 +8,7 @@ interface PageViewModel {
 }
 
 describe('View model', () => {
-  it('vm2 should initialize all values with the given values in different formats', (done) => {
+  it('vm should initialize all values with the given values in different formats', (done) => {
     const name = 'John';
     const number = 4561265;
     const stringArray = ['a', 'b', 'c'];
